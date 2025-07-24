@@ -5,8 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
