@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2689-rearranging-fruits](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Dynamic Programming
 |  |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Hash Table
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
+## Sort
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/Priyam-A/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
